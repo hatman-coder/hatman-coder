@@ -1,4 +1,6 @@
-### <div align="center">I'm Tahseen, a full-time full-stack freelance developer 👨‍💻</div>  
+<h1 align="center">Hi 👋, I'm Tahseen Rahman</h1>
+<br>
+
   
 
 - 🌱 I’m currently learning advanced Django, React and Nixos customization
