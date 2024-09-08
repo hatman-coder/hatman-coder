@@ -14,9 +14,10 @@
 about_me = {
   pronouns: "he" | "him",
   code: [Python, Django, Django Rest Framework],
-  tools: [Docker, Postman, Pycharm, ],
+  tools: [Docker, Postman, Pycharm, Git],
+  os: [windows, ubuntu, mint, nixos],
   architecture: ["microservices", "model view controler"],
- goal: "Wanna learn and explore technologies as much I can."
+  goal: "Wanna learn and explore technologies as much I can."
 }
 ```
 
@@ -30,9 +31,6 @@ about_me = {
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hatman-coder&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hatman-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hatman-coder&icon=0&color=6)](https://visitcount.itsvg.in)
