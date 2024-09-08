@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔨 I’m currently working on: A Django and React-based web application, focusing on restaurant management, orders, and Stripe integration for payments.<br><br>🎉 I’m looking to collaborate on: Innovative projects involving web development with a strong backend focus using Django Rest API and database management with PostgreSQL and MySQL.<br><br>🧠 I’m looking for help with: Advanced React.js and frontend development to complement my backend expertise.<br><br>🌱 I’m currently learning: NixOS configurations, React.js, and improving system-level optimizations and security settings.<br><br>💬 Ask me about: Backend development, Django Rest Framework, database management, NixOS configuration, and API development.<br><br>⚡ Fun fact: I can type over 53 words per minute and have a strong knack for problem-solving using algorithmic thinking.
+### <div align="center">I'm Tahseen, a full-time full-stack freelance developer 👨‍💻</div>  
+  
+
+- 🌱 I’m currently learning advanced Django, React and Nixos customization
+  
+
+- ❓ Ask me about anything related to Django Framework and Python related technologies  
+  
+
+- ⚡ Fun fact: I need more space to take space
 
 
 ## 🌐 Socials:
