@@ -1,6 +1,6 @@
 <h1 align="left">Hello there 👋</h1>
-
 ![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
+<br>
 ---
 - 🌱 I’m currently learning advanced Django, React and Nixos customization
   
