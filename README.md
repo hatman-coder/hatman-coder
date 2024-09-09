@@ -1,4 +1,9 @@
-<h1 align="left">Tahseen Rahman ✨</h1>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello there! I am
+                <b><a target="_blank" href="https://emon.com.bd/">Tahseen Rahman</a></b>
+        </samp>
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
 ---
