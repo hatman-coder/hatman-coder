@@ -5,7 +5,7 @@
         </samp>
 </h3>
 <p align="center">
-        ![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
+    <img src="https://komarev.com/ghpvc/?username=hatman-coder&color=blue" alt="Profile Views" />
 </p>
 
 ---
