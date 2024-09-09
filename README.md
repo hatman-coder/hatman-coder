@@ -29,7 +29,9 @@
 
 ---
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=black)](https://facebook.com/hatman.coder/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hatman-coder/) [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=microsoft-outlook&logoColor=white)](mailto:youremail@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://facebook.com/hatman.coder/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/hatman-coder/) 
+[![Outlook](https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=microsoft-outlook&logoColor=%230078D4)](mailto:youremail@outlook.com)
 
 ---
 ## 💻 Tech Stack:
