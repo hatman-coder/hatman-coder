@@ -29,7 +29,7 @@
 - ❓ Ask me about anything related to Django Framework and Python related technologies  
   
 
-- ⚡ Fun fact: I need more space to take space
+- ⚡ Fun fact: I require extra space just to make space!
 
 ---
 ## 🌐 Socials:
