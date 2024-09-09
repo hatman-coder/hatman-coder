@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahseen Rahman</h1>
-[![](https://visitcount.itsvg.in/api?id=hatman-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
 ---
 - 🌱 I’m currently learning advanced Django, React and Nixos customization
   
