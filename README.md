@@ -31,7 +31,8 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://facebook.com/hatman.coder/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/hatman-coder/) 
-[![Outlook](https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:youremail@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADrElEQVR4Xu2aS4iOURDHfzPdXM2OtoSUY+UB+gCBYGBGNSFjjFizJXBID0s5dgFWNjQpNGBiKKwsLQQHZTgrF3FD4kZ4iDQcfiT3vZmZmRmdnd2YX+6Fb+8Oef+zOzMwtuPOT/J8/eZD8/nmT5gGboADaAOhAA3QAA7QAA7QAA7wEYBkYA5dA/wJj/vpGHv/kRBKRAIY6ABRHAyN8AlkABf5rAqS3oPbCtEQA+v5tSCoh4CpYACJwEJGAH/2yXQIUtAWIlAZAKwIwCCtOADUWh9ZWgJ1SAykTAURoDoCYgZUJwTYIlACEqCNZ0B1P+8YzgQ3HzIQx9JpMNkftClZC7Q1fWqWJ0n48KWAfQPToHDghkBLZgmIkSaAIsA9gY+kFIPtsKWEMuAMWEJBSCxUMpCzIQIC2NkY8C+ghQNJBuGaAKYAI0CbUzgaD7mCCBQAnSTQFhwEeqRFISGBjANsxoGhSOIwUKQJ6KpLYMMKo2EUPKPEQyU9UhBiQo8huDIQIoMgpxFM1W5Atc6kaLBjlKhUgAdFqge9KuLSFUuhbYIkgMkOlMiAPCfoJmkw9JwPLAO1JXG5ZBcOxCWWuIiOGFLzMhEVA8RNUhCMItqkQQj5IawBsAIyZ/9BpHFZZBI8hZ4uW8ZIEXQfX4QbEKIgHZR4Abl7V0QaJ4WAGMPAoHFX0VJkZRO4W3MIaqcjhZJ0A/EiAldFbRcIVRgIbsGLGpA8Aam54wyJVyDDEIWMBcTWAKnKNvXONJNgx84KkcCMh+TQAfKY7iJhDd9WiXIQkJcBWWgFmyHAC3cawP0NRJBuCYwFXAF20s4mPYKHNVOCDDEWcp8OWDaLBhWiqgABrHNHXLRwNsk2JNSgUVoQIiFcdigztIZUIxZDhfbVliNOQsQtghLgZpPYzFSJDCKsKmGkC7CmAtIBJpNAFVYBdTKgfmdDtt8wBLVtdghJ4FaAVmGVdDg7PlACrwLbOgqRDEII3eAnDQPYGNwyExGHoAUrhJYVyBKYB9ThdRhikIgQ+AUJgHywmMa+GvN+ID8AQWgFd+NbdowAAAABJRU5ErkJggg==)](mailto:youremail@outlook.com)
+
 
 
 ---
