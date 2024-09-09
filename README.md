@@ -4,10 +4,7 @@
                 <b><a target="_blank" href="https://emon.com.bd/">Tahseen Rahman</a></b>
         </samp>
 </h3>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hatman-coder&color=blue" alt="Profile Views" />
-</p>
-
+![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
 ---
 <p align="center">
         <!-- Organisation  -->
