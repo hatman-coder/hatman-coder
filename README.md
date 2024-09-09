@@ -4,9 +4,23 @@
                 <b><a target="_blank" href="https://emon.com.bd/">Tahseen Rahman</a></b>
         </samp>
 </h3>
+<p align="center">
+        ![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
+</p>
 
-![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
 ---
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 From Dhaka, Bangladesh 」
+                <br>
+                「 Software Engineer (Backend) 」
+                <br>
+                「 B.Sc (Engg), Computer Science & Engineering @<b> International University of Scholars</b> 」
+                <br>
+                <br>
+        </samp>
+</p>
 <br>
 
 - 🌱 I’m currently learning advanced Django, React and Nixos customization
