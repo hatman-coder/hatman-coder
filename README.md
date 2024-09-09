@@ -1,6 +1,7 @@
 <h1 align="left">Tahseen Rahman ✨</h1>
 
 ![](https://komarev.com/ghpvc/?username=hatman-coder&color=blue)
+---
 <br>
 ---
 - 🌱 I’m currently learning advanced Django, React and Nixos customization
