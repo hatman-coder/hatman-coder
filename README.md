@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahseen Rahman</h1>
-<h6 align="center">[![](https://visitcount.itsvg.in/api?id=hatman-coder&icon=0&color=0)](https://visitcount.itsvg.in)</h6>
+[![](https://visitcount.itsvg.in/api?id=hatman-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 - 🌱 I’m currently learning advanced Django, React and Nixos customization
   
