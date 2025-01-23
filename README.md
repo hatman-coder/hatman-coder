@@ -73,7 +73,7 @@
 ```javascript
 about_me = {
   pronouns: "he" | "him",
-  code: [Python, Django, Django Rest Framework],
+  code: [Python, Django, Django Rest Framework, Django Ninja],
   tools: [Docker, Postman, Pycharm, Git],
   os: [windows, ubuntu, mint, nixos],
   architecture: ["microservices", "model view controler"],
