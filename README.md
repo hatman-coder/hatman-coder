@@ -33,9 +33,12 @@
 
 ---
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://facebook.com/hatman.coder/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/hatman-coder/) 
-[![Outlook](https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=microsoft-outlook&logoColor=%230078D4)](mailto:elliot.59@outlook.com)
+
+<a href="https://facebook.com/hatman.coder/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://linkedin.com/in/hatman-coder/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:elliot.59@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+
+
 
 
 
@@ -73,11 +76,11 @@
 ```javascript
 about_me = {
   pronouns: "he" | "him",
-  code: [Python, Django, Django Rest Framework, Django Ninja],
-  tools: [Docker, Postman, Pycharm, Git],
+  code: [python, django, django rest framework, django ninja],
+  tools: [docker, postman, pycharm, git],
   os: [windows, ubuntu, mint, nixos],
   architecture: ["microservices", "model view controler"],
-  goal: "Wanna learn and explore technologies as much I can."
+  goal: "Wanna learn and explore technologies as much as I can."
 }
 ```
 ### ✍️ Random Dev Quote
