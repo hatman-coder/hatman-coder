@@ -76,9 +76,9 @@
 ```javascript
 about_me = {
   pronouns: "he" | "him",
-  code: [python, django, django rest framework, django ninja],
-  tools: [docker, postman, pycharm, git],
-  os: [windows, ubuntu, mint, nixos],
+  code: ["python", "django", "django_rest_framework", "django_ninja"],
+  tools: ["docker", "postman", "pycharm", "git"],
+  os: ["windows", "ubuntu", "mint", "nixos"],
   architecture: ["microservices", "model view controler"],
   goal: "Wanna learn and explore technologies as much as I can."
 }
